@@ -10,3 +10,5 @@ https://github.com/CrowdStrike/CRT
 
 https://github.com/gravitl/netmaker
 
+https://github.com/6mile/DevSecOps-Playbook
+
