@@ -18,6 +18,8 @@ Book
 
 https://github.com/maroskukan/terraform-cookbook
 
+https://github.com/PacktPublishing/Terraform-Cookbook-Second-Edition
+
 https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way
 
 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
