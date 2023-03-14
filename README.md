@@ -14,6 +14,8 @@ https://github.com/OWASP/DevSecOpsGuideline
 
 https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
+https://github.com/jmartin-r7/metasploitable3
+
 Books
 
 https://github.com/maroskukan/terraform-cookbook
